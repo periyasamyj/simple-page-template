@@ -1,0 +1,140 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.nav1{
+    position: relative;
+    background-color: black;
+    height: 60px;
+    width: 100%;
+}
+.nav1 img{
+    position:absolute;
+    height: 62px;
+    width: 60px;
+}
+.nav1 i{
+    display: inline;
+    font-size: 18px;
+    margin-top: 110px;
+    padding-top: 15px;
+    margin-left: 80px;
+    color: rgb(188, 199, 38);
+
+}
+.nav1 p{
+    display: inline;
+    font-size: 14px;
+    font-style: oblique;
+    margin-left: 80px;
+    padding-top: 5px;
+    color: rgb(255, 252, 245);
+}
+.nav1 box-icon{
+    position: absolute;
+    right: 0;
+}
+.nav1 ul{
+    margin-left: 690px;
+    display: inline;
+
+}
+.nav1 ul li{
+    margin-left: 50px;
+    display: inline-block;
+    color: white;
+}
+#btn_contact{
+    
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 25px;
+    padding-right: 35px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 167, 4);
+    border: 2px solid rgb(255, 167, 4);
+    
+}
+.nav2{
+
+    width: 100%;
+    height: 50px;
+    background-color: rgb(255, 255, 255);
+}
+.nav2 ul{
+display: inline;
+}
+.nav2 ul li{
+    display: inline;
+    font-size: 18px;
+    margin-top: 0px;
+    margin-left: 50px;
+    list-style: none;
+}
+.nav2 ul li a{
+    color: black;
+    text-decoration: none;
+}
+#img1
+{
+    height: 25px;
+    width: 35px;
+    border-radius: 50%;
+    margin-left: 250px;
+    margin-top: 10px;
+}
+#img2
+{
+    height: 30px;
+    width: 35px;
+    border-radius: 50%;
+    margin-left: 20px;
+}
+#img3
+{
+    height: 30px;
+    width: 35px;
+    border-radius: 50%;
+    margin-left: 20px;
+}
+#img4
+{
+    height: 30px;
+    width: 45px;
+    border-radius: 50%;
+    margin-left: 20px;
+}
+#mainimg{
+    height: 350px;
+    width: 100%;
+}
+.bottom_content{
+    background-color: rgb(247, 247, 247);
+    height: 140px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 10%;
+}
+.card1{
+    
+    height: 140px;
+    width: 180px;
+    background-color: rgb(255, 217, 0);
+}
+.card2{
+    height: 140px;
+    width: 180px;
+    background-color: rgb(119, 107, 38);
+}
+.card3{
+    height: 140px;
+    width: 180px;
+    background-color: rgb(78, 77, 67);
+}
+.card4{
+    height: 140px;
+    width: 180px;
+    background-color: rgb(226, 219, 141);
+}
+
